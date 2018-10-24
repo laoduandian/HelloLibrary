@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.laoduandian:HelloLibrary-V1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HelloLibrary-V1.1.aar/bd8ff8e386bef5af76e01bc46252224e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HelloLibrary-V1.1.aar/bd8ff8e386bef5af76e01bc46252224e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
